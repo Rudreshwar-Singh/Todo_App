@@ -1,16 +1,55 @@
-# todo_app
+ToDo App
+A simple and elegant ToDo application built with Flutter, designed to help you manage your tasks efficiently. This app allows you to add, edit, and delete tasks with ease.
 
-A new Flutter project.
+Features
+Add ToDo: Use the floating action button at the bottom right to add a new ToDo item.
+Edit ToDo: Tap on the three-dot menu on each ToDo item to edit it.
+Delete ToDo: Tap on the three-dot menu on each ToDo item to delete it.
+ToDo List: View all your ToDo items in a list format.
 
-## Getting Started
+Screenshots
+![Screenshot 2024-07-17 215019](https://github.com/user-attachments/assets/0963649e-130b-4642-9dab-4be88a99f1bb)
 
-This project is a starting point for a Flutter application.
+Installation
+To clone and run this application, you'll need Git, and Flutter installed on your computer. From your command line:
 
-A few resources to get you started if this is your first Flutter project:
+bash
+Copy code
+# Clone this repository
+$ git clone https://github.com/yourusername/todo-app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Go into the repository
+$ cd todo-app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Install dependencies
+$ flutter pub get
+
+# Run the app
+$ flutter run
+
+
+Usage
+Adding a ToDo:
+
+Tap on the Add ToDo button at the bottom right corner.
+Enter your ToDo details and save.
+Editing a ToDo:
+
+Tap on the three-dot menu of the ToDo item you want to edit.
+Select edit and modify your ToDo details.
+Deleting a ToDo:
+
+Tap on the three-dot menu of the ToDo item you want to delete.
+Select delete to remove the ToDo item.
+Contributing
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgements
+Flutter
+GitHub
