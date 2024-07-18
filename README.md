@@ -1,4 +1,5 @@
 ToDo App
+
 A simple and elegant ToDo application built with Flutter, designed to help you manage your tasks efficiently. This app allows you to add, edit, and delete tasks with ease.
 
 Features
@@ -8,6 +9,8 @@ Delete ToDo: Tap on the three-dot menu on each ToDo item to delete it.
 ToDo List: View all your ToDo items in a list format.
 
 Screenshots
+![Screenshot 2024-07-17 214737](https://github.com/user-attachments/assets/acb1305f-c8a8-484f-9a04-380946cf932b)
+![Screenshot 2024-07-17 214858](https://github.com/user-attachments/assets/3c2aabc9-0678-46df-87a0-84a045675f89)
 ![Screenshot 2024-07-17 215019](https://github.com/user-attachments/assets/0963649e-130b-4642-9dab-4be88a99f1bb)
 
 Installation
