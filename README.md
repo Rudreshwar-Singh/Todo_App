@@ -1,4 +1,3 @@
-# ToDo App
 
 A simple and elegant ToDo application built with Flutter, designed to help you manage your tasks efficiently. This app allows you to add, edit, and delete tasks with ease.
 
@@ -9,9 +8,18 @@ Delete ToDo: Tap on the three-dot menu on each ToDo item to delete it.
 ToDo List: View all your ToDo items in a list format.
 
 # Screenshots
-![Screenshot 2024-07-17 214737](https://github.com/user-attachments/assets/acb1305f-c8a8-484f-9a04-380946cf932b)
-![Screenshot 2024-07-17 214858](https://github.com/user-attachments/assets/3c2aabc9-0678-46df-87a0-84a045675f89)
-![Screenshot 2024-07-17 215019](https://github.com/user-attachments/assets/0963649e-130b-4642-9dab-4be88a99f1bb)
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/acb1305f-c8a8-484f-9a04-380946cf932b" alt="Minimal ToDo List Dark" height="380" width="250"/>
+  <img src="assets/main_full_dark.png" alt="Minimal ToDo List Dark" height="500" width="250"/>
+  <img src="https://github.com/Rudreshwar-Singh/Todo_App/blob/main/assets/add_todo_dark.png" alt="Time Picker Dialog" height="500" width="250"/>
+  <img src="assets/todo_date_dark.png" alt="Date Picker Dialog" height="500" width="250"/>
+  <img src="assets/todo_time_dark.png" alt="Add ToDo Screen" height="500" width="250"/>
+</p>
+
+
+
+
 
 # Installation
 To clone and run this application, you'll need Git, and Flutter installed on your computer. From your command line:
